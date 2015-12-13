@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words
+Upstream remote is used for syncing changes made to local repository with the remote repository, so that subsequent cloning would contain those changes.

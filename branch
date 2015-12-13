@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is one of the 'parallel realities' of the project in the repository. Changes made and commited to files on one branch do not affect these files on other branch(es).
